@@ -45,7 +45,7 @@ class Company {
 // Create employees and manager
 const emp1 = new Employee("Alejandro", "Analytics");
 const emp2 = new Employee("Sofia", "Marketing");
-const manager1 = new Manager("Victor", "Engineering", 6);
+const manager1 = new Manager("Victor", "Finance", 6);
 
 // Create company and add them
 const company = new Company();
