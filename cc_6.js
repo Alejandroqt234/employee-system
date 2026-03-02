@@ -1,3 +1,5 @@
+// Company class added
+
 // Base class: Employee
 class Employee {
   constructor(name, department) {
